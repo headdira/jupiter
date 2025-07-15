@@ -53,10 +53,7 @@ O painel de dispositivos inclui um **mapa do Brasil** com a última localizaçã
 
 - Python 3.10 ou superior  
 - Git  
-- Biblioteca: `requests`  
-- Acesso autorizado à planilha do Google (com API Sheets habilitada)  
-- Chave de acesso válida para a API da TopFly
-
+- Biblioteca: `requests` 
 ---
 
 ## 🚀 Como executar (Windows)
@@ -91,10 +88,6 @@ python commit.py
 python logistica.py
 python commit2.py
 ```
-
-*(Ainda não há um `.sh` automatizado, mas posso ajudar a criar.)*
-
----
 
 ## 🛡️ Licença
 

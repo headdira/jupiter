@@ -59,9 +59,14 @@ O painel de dispositivos inclui um **mapa do Brasil** com a última localizaçã
 ## 🚀 Como executar (Windows)
 
 1. **Clone o repositório:**
-   ```bash
+
+```bash
    git clone https://github.com/headdira/jupiter
+```
+```bash
    cd jupiter
+```
+
 ````
 
 2. **Instale a dependência:**

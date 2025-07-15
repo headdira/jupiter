@@ -1,11 +1,6 @@
 ````markdown
 # 🪐 Júpiter – Sistema de Coleta, Logística e Visualização de Dados
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![TopFly](https://img.shields.io/badge/API-TopFly-orange.svg)
-![Status](https://img.shields.io/badge/status-Em%20uso-success)
-
 O **Júpiter** é um sistema automatizado que integra **dados de rastreadores** e **planilhas de logística** para gerar **painéis visuais e interativos**. Criado para facilitar o acompanhamento de dispositivos e envios em larga escala, ele transforma informações operacionais em interfaces claras e úteis para tomada de decisão.
 
 ---
@@ -104,14 +99,6 @@ python commit2.py
 ## 🛡️ Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
-
----
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para abrir *issues*, sugerir melhorias ou enviar *pull requests*. Toda contribuição é bem-vinda!
-
----
 
 ## 📬 Contato
 

@@ -60,13 +60,8 @@ O painel de dispositivos inclui um **mapa do Brasil** com a última localizaçã
 
 1. **Clone o repositório:**
 
-   ```bash
    git clone https://github.com/headdira/jupiter
-   ```
-
-   ```bash
    cd jupiter
-   ```
 
 ````
 
